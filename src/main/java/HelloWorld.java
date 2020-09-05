@@ -4,7 +4,7 @@ public class HelloWorld {
         string = "Hello, World!";
         System.out.println(string);
         String s = new String();
-        string = "Ladomir!";
+        s = "Ladomir!";
         System.out.println(s);
     }
 }
