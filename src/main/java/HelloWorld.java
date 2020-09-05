@@ -1,7 +1,10 @@
 public class HelloWorld {
     public static void main(String[] args) {
         String string = new String();
-        string = "Hello World!";
+        string = "Hello, World!";
         System.out.println(string);
+        String s = new String();
+        string = "Ladomir!";
+        System.out.println(s);
     }
 }
